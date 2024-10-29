@@ -1,5 +1,5 @@
 body {
-    background: rgb(146, 211, 178);
+    background: rgb(183, 253, 255);
     color: rgb(0, 0, 0);
     padding: 10px;
     font-family: arial;
@@ -38,7 +38,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(255, 212, 212);
+    background: rgb(0, 140, 255);
     display: flex;
 }
 .sidebar {
