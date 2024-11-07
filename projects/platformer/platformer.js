@@ -59,6 +59,8 @@ $(function () {
 
 
 
+createCollectable("database", 650, 510, 20, 0.5);
+
     
     // TODO 3
     // Create cannons
